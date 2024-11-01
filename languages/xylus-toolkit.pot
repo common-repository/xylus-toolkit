@@ -1,0 +1,731 @@
+# Copyright (C) 2016 Xylus Toolkit
+# This file is distributed under the same license as the Xylus Toolkit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Xylus Toolkit 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/xylus-toolkit\n"
+"POT-Creation-Date: 2016-03-25 10:17:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/metabox/class-xylus-toolkit-client-metabox.php:30
+msgid "Client Details"
+msgstr ""
+
+#: admin/metabox/class-xylus-toolkit-slider-metabox.php:30
+msgid "Slider Details"
+msgstr ""
+
+#: admin/metabox/class-xylus-toolkit-team-metabox.php:30
+msgid "Team Member Details"
+msgstr ""
+
+#: admin/metabox/class-xylus-toolkit-testimonial-metabox.php:30
+msgid "Testimonial Author"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:71
+msgctxt "Post Type General Name"
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:72
+msgctxt "Post Type Singular Name"
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:73
+#: includes/class-xylus-toolkit-post-types.php:74
+#: includes/class-xylus-toolkit-post-types.php:104
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:75
+msgid "Portfolio Archives"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:76
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:77
+msgid "All Portfolio Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:78
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:79
+#: includes/class-xylus-toolkit-post-types.php:210
+#: includes/class-xylus-toolkit-post-types.php:320
+#: includes/class-xylus-toolkit-post-types.php:430
+#: includes/class-xylus-toolkit-post-types.php:540
+#: includes/class-xylus-toolkit-post-types.php:606
+msgid "Add New"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:80
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:81
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:82
+msgid "Update Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:83
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:84
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:85
+#: includes/class-xylus-toolkit-post-types.php:216
+#: includes/class-xylus-toolkit-post-types.php:326
+#: includes/class-xylus-toolkit-post-types.php:436
+#: includes/class-xylus-toolkit-post-types.php:546
+#: includes/class-xylus-toolkit-post-types.php:612
+msgid "Not found"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:86
+#: includes/class-xylus-toolkit-post-types.php:217
+#: includes/class-xylus-toolkit-post-types.php:327
+#: includes/class-xylus-toolkit-post-types.php:437
+#: includes/class-xylus-toolkit-post-types.php:547
+#: includes/class-xylus-toolkit-post-types.php:613
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:87
+#: includes/class-xylus-toolkit-post-types.php:218
+#: includes/class-xylus-toolkit-post-types.php:328
+#: includes/class-xylus-toolkit-post-types.php:438
+#: includes/class-xylus-toolkit-post-types.php:548
+#: includes/class-xylus-toolkit-post-types.php:614
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:88
+#: includes/class-xylus-toolkit-post-types.php:219
+#: includes/class-xylus-toolkit-post-types.php:329
+#: includes/class-xylus-toolkit-post-types.php:439
+#: includes/class-xylus-toolkit-post-types.php:549
+#: includes/class-xylus-toolkit-post-types.php:615
+msgid "Set featured image"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:89
+#: includes/class-xylus-toolkit-post-types.php:220
+#: includes/class-xylus-toolkit-post-types.php:330
+#: includes/class-xylus-toolkit-post-types.php:440
+#: includes/class-xylus-toolkit-post-types.php:550
+#: includes/class-xylus-toolkit-post-types.php:616
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:90
+#: includes/class-xylus-toolkit-post-types.php:221
+#: includes/class-xylus-toolkit-post-types.php:331
+#: includes/class-xylus-toolkit-post-types.php:441
+#: includes/class-xylus-toolkit-post-types.php:551
+#: includes/class-xylus-toolkit-post-types.php:617
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:91
+msgid "Insert into Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:92
+msgid "Uploaded to this Portfolio"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:93
+msgid "Portfolio Items list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:94
+msgid "Portfolio Items list navigation"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:95
+msgid "Filter Portfolio items list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:105
+msgid "Post type for Portfolio Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:136
+#: includes/class-xylus-toolkit-post-types.php:267
+#: includes/class-xylus-toolkit-post-types.php:377
+#: includes/class-xylus-toolkit-post-types.php:487
+msgid "Categories"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:166
+msgid "Project Tags"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:167
+msgid "Project Tag"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:168
+msgid "Tags"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:169
+msgid "Tag"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:170
+msgid "Search Tags"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:171
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:172
+msgid "All Tags"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:173
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:174
+msgid "View Tag"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:175
+msgid "Update Tag"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:176
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:177
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:178
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:179
+msgid "Add or remove tags"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:180
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:181
+msgid "No tags found"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:202
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:203
+msgctxt "Post Type Singular Name"
+msgid "Testimonials"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:204
+#: includes/class-xylus-toolkit-post-types.php:205
+#: includes/class-xylus-toolkit-post-types.php:235
+msgid "Testimonials"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:206
+msgid "Testimonial Archives"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:207
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:208
+msgid "All Testimonials"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:209
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:211
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:212
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:213
+msgid "Update Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:214
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:215
+msgid "Search Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:222
+msgid "Insert into Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:223
+msgid "Uploaded to this Testimonial"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:224
+msgid "Testimonials list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:225
+msgid "Testimonials list navigation"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:226
+msgid "Filter Testimonials list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:236
+msgid "Post type for Testimonials"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:265
+msgid "Testimonial Categories"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:266
+msgid "Testimonial Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:268
+#: includes/class-xylus-toolkit-post-types.php:378
+#: includes/class-xylus-toolkit-post-types.php:488
+msgid "Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:269
+#: includes/class-xylus-toolkit-post-types.php:379
+#: includes/class-xylus-toolkit-post-types.php:489
+msgid "Search Categories"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:270
+#: includes/class-xylus-toolkit-post-types.php:380
+#: includes/class-xylus-toolkit-post-types.php:490
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:271
+#: includes/class-xylus-toolkit-post-types.php:381
+#: includes/class-xylus-toolkit-post-types.php:491
+msgid "All Categories"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:272
+#: includes/class-xylus-toolkit-post-types.php:382
+#: includes/class-xylus-toolkit-post-types.php:492
+msgid "Edit Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:273
+#: includes/class-xylus-toolkit-post-types.php:383
+#: includes/class-xylus-toolkit-post-types.php:493
+msgid "View Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:274
+#: includes/class-xylus-toolkit-post-types.php:384
+#: includes/class-xylus-toolkit-post-types.php:494
+msgid "Update Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:275
+#: includes/class-xylus-toolkit-post-types.php:385
+#: includes/class-xylus-toolkit-post-types.php:495
+msgid "Add New Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:276
+#: includes/class-xylus-toolkit-post-types.php:386
+#: includes/class-xylus-toolkit-post-types.php:496
+msgid "New Category Name"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:277
+#: includes/class-xylus-toolkit-post-types.php:387
+#: includes/class-xylus-toolkit-post-types.php:497
+msgid "Parent Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:278
+#: includes/class-xylus-toolkit-post-types.php:388
+#: includes/class-xylus-toolkit-post-types.php:498
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:312
+msgctxt "Post Type General Name"
+msgid "Clients"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:313
+msgctxt "Post Type Singular Name"
+msgid "Clients"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:314
+#: includes/class-xylus-toolkit-post-types.php:315
+#: includes/class-xylus-toolkit-post-types.php:345
+msgid "Clients"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:316
+msgid "Client Archives"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:317
+msgid "Parent Client:"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:318
+msgid "All Clients"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:319
+msgid "Add New Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:321
+msgid "New Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:322
+msgid "Edit Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:323
+msgid "Update Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:324
+msgid "View Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:325
+msgid "Search Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:332
+msgid "Insert into Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:333
+msgid "Uploaded to this Client"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:334
+msgid "Clients list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:335
+msgid "Clients list navigation"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:336
+msgid "Filter Clients list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:346
+msgid "Post type for Clients"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:375
+msgid "Client Categories"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:376
+msgid "Client Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:422
+msgctxt "Post Type General Name"
+msgid "Team Members"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:423
+msgctxt "Post Type Singular Name"
+msgid "Team Members"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:424
+#: includes/class-xylus-toolkit-post-types.php:425
+#: includes/class-xylus-toolkit-post-types.php:455
+msgid "Team Members"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:426
+msgid "Team Member Archives"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:427
+msgid "Parent Team Member:"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:428
+msgid "All Team Members"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:429
+msgid "Add New Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:431
+msgid "New Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:432
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:433
+msgid "Update Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:434
+msgid "View Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:435
+msgid "Search Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:442
+msgid "Insert into Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:443
+msgid "Uploaded to this Team Member"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:444
+msgid "Team Members list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:445
+msgid "Team Members list navigation"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:446
+msgid "Filter Team Members list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:456
+msgid "Post type for Team Members"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:485
+msgid "Team Member Categories"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:486
+msgid "Team Member Category"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:532
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:533
+msgctxt "Post Type Singular Name"
+msgid "Services"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:534
+#: includes/class-xylus-toolkit-post-types.php:535
+#: includes/class-xylus-toolkit-post-types.php:565
+msgid "Services"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:536
+msgid "Service Archives"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:537
+msgid "Parent Service:"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:538
+msgid "All Services"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:539
+msgid "Add New Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:541
+msgid "New Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:542
+msgid "Edit Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:543
+msgid "Update Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:544
+msgid "View Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:545
+msgid "Search Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:552
+msgid "Insert into Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:553
+msgid "Uploaded to this Service"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:554
+msgid "Services list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:555
+msgid "Services list navigation"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:556
+msgid "Filter Services list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:566
+msgid "Post type for Services"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:598
+msgctxt "Post Type General Name"
+msgid "Slider Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:599
+msgctxt "Post Type Singular Name"
+msgid "Slider Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:600
+#: includes/class-xylus-toolkit-post-types.php:601
+#: includes/class-xylus-toolkit-post-types.php:631
+msgid "Slider Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:602
+msgid "Slider Item Archives"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:603
+msgid "Parent Slider Item:"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:604
+msgid "All Slider Items"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:605
+msgid "Add New Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:607
+msgid "New Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:608
+msgid "Edit Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:609
+msgid "Update Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:610
+msgid "View Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:611
+msgid "Search Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:618
+msgid "Insert into Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:619
+msgid "Uploaded to this Slider Item"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:620
+msgid "Slider Items list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:621
+msgid "Slider Items list navigation"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:622
+msgid "Filter Slider Items list"
+msgstr ""
+
+#: includes/class-xylus-toolkit-post-types.php:632
+msgid "Post type for Slider Items"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Xylus Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://xylusthemes.com/plugins/xylus-toolkit"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Xylus Toolkit extends functionality to Xylus Themes, providing custom "
+"post types and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Xylus Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://xylusthemes.com"
+msgstr ""
